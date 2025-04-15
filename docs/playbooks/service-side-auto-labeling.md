@@ -163,7 +163,7 @@ Sensitive files are automatically detected and labeled at rest.
     - These files can be auto-labeled at rest before or after the auto-labeling policies are created. Files cannot be auto-labeled if they are part of an open session (the file is open).
     - Currently, attachments to list items aren't supported and won't be auto-labeled.
 
-- Maximum of 100,000 automatically labeled files in your tenant per day. Requests to increase labeling speed can be made via support ticket with business justification and financial impact to Microsoft. Please note that Microsoft has final approval of requests and approved limit increase will take 6-8 weeks to take effect.
+- Maximum of 100,000 automatically labeled files in your tenant per day. 
 
 - Maximum of 100 auto-labeling policies per tenant, each targeting up to 100 locations (SharePoint sites or OneDrive individual users or groups) when you specify specific locations by using the Included or Excluded options. If you keep the default configuration of All, this configuration is exempt from the 100 locations maximum.
 
